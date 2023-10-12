@@ -1,0 +1,14 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "This example is so cool.",
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jane-doe",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
